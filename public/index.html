@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LoL CD Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="brand">LoL CD Tracker</div>
+  <div id="status" class="status">Connecting…</div>
+  <div id="me" class="me"></div>
+  <div class="controls">
+    <button id="mic" class="mic">🎙 Voice off</button>
+    <label class="toggle"><input type="checkbox" id="alerts"> Say when ready</label>
+    <label class="toggle"><input type="checkbox" id="showAllies"> Show allies</label>
+  </div>
+  <div id="heard" class="heard"></div>
+</header>
+<main id="grid"></main>
+<footer>
+  <b>Voice:</b> turn on the mic and say e.g. “Ahri flash”, “Zed ult”, “mid E”, “jungle smite”, “flash and ult” (uses the last champion),
+  or “cancel Ahri flash”. <b>Keyboard:</b> press 1–5 to pick an enemy, then Q/W/E/R or D/F for summoners (Shift cancels).<br>
+  Tap an ability or summoner icon when you see it used to start a timer. Tap the rank pips to correct skill levels
+  (enemy ranks aren't exposed by the game, so they're estimated from level). "to you" = after your armor / MR and their penetration.
+</footer>
+<script src="calc.js"></script>
+<script src="voice.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

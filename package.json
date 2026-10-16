@@ -1,0 +1,13 @@
+{
+  "name": "lol-cd-tracker",
+  "version": "0.1.0",
+  "description": "Second-screen enemy cooldown & damage calculator for League of Legends",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "mock": "node server.js --mock",
+    "test": "node test/run.js && node test/voice.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}

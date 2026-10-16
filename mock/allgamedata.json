@@ -1,0 +1,270 @@
+{
+ "activePlayer": {
+  "riotId": "You#NA1",
+  "riotIdGameName": "You",
+  "summonerName": "You#NA1",
+  "level": 11,
+  "championStats": {
+   "maxHealth": 1450.0,
+   "currentHealth": 1210.0,
+   "armor": 72.0,
+   "magicResist": 48.0,
+   "attackDamage": 70.0,
+   "abilityPower": 310.0,
+   "abilityHaste": 20.0
+  },
+  "abilities": {},
+  "fullRunes": {},
+  "currentGold": 500
+ },
+ "allPlayers": [
+  {
+   "championName": "Lux",
+   "rawChampionName": "game_character_displayname_Lux",
+   "riotId": "You#NA1",
+   "riotIdGameName": "You",
+   "summonerName": "You#NA1",
+   "team": "ORDER",
+   "level": 11,
+   "isDead": false,
+   "respawnTimer": 0,
+   "position": "MIDDLE",
+   "isBot": false,
+   "items": [
+    {
+     "itemID": 6655,
+     "displayName": "Luden's Companion",
+     "count": 1,
+     "slot": 0,
+     "canUse": false,
+     "consumable": false,
+     "price": 0,
+     "rawDescription": "",
+     "rawDisplayName": ""
+    },
+    {
+     "itemID": 3020,
+     "displayName": "Sorcerer's Shoes",
+     "count": 1,
+     "slot": 1,
+     "canUse": false,
+     "consumable": false,
+     "price": 0,
+     "rawDescription": "",
+     "rawDisplayName": ""
+    }
+   ],
+   "scores": {
+    "kills": 3,
+    "deaths": 1,
+    "assists": 4,
+    "creepScore": 100,
+    "wardScore": 5
+   },
+   "summonerSpells": {
+    "summonerSpellOne": {
+     "displayName": "Flash",
+     "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+    },
+    "summonerSpellTwo": {
+     "displayName": "Ignite",
+     "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerDot_DisplayName"
+    }
+   },
+   "runes": {
+    "keystone": {
+     "displayName": "Electrocute",
+     "id": 8112
+    }
+   }
+  },
+  {
+   "championName": "Ahri",
+   "rawChampionName": "game_character_displayname_Ahri",
+   "riotId": "MidLaner#NA1",
+   "riotIdGameName": "MidLaner",
+   "summonerName": "MidLaner#NA1",
+   "team": "CHAOS",
+   "level": 11,
+   "isDead": false,
+   "respawnTimer": 0,
+   "position": "MIDDLE",
+   "isBot": false,
+   "items": [
+    {
+     "itemID": 3089,
+     "displayName": "Rabadon's Deathcap",
+     "count": 1,
+     "slot": 0,
+     "canUse": false,
+     "consumable": false,
+     "price": 0,
+     "rawDescription": "",
+     "rawDisplayName": ""
+    },
+    {
+     "itemID": 6655,
+     "displayName": "Luden's Companion",
+     "count": 1,
+     "slot": 1,
+     "canUse": false,
+     "consumable": false,
+     "price": 0,
+     "rawDescription": "",
+     "rawDisplayName": ""
+    },
+    {
+     "itemID": 3020,
+     "displayName": "Sorcerer's Shoes",
+     "count": 1,
+     "slot": 2,
+     "canUse": false,
+     "consumable": false,
+     "price": 0,
+     "rawDescription": "",
+     "rawDisplayName": ""
+    }
+   ],
+   "scores": {
+    "kills": 4,
+    "deaths": 2,
+    "assists": 1,
+    "creepScore": 100,
+    "wardScore": 5
+   },
+   "summonerSpells": {
+    "summonerSpellOne": {
+     "displayName": "Flash",
+     "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+    },
+    "summonerSpellTwo": {
+     "displayName": "Ignite",
+     "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerDot_DisplayName"
+    }
+   },
+   "runes": {
+    "keystone": {
+     "displayName": "Electrocute",
+     "id": 8112
+    }
+   }
+  },
+  {
+   "championName": "Zed",
+   "rawChampionName": "game_character_displayname_Zed",
+   "riotId": "JungleGap#NA1",
+   "riotIdGameName": "JungleGap",
+   "summonerName": "JungleGap#NA1",
+   "team": "CHAOS",
+   "level": 9,
+   "isDead": false,
+   "respawnTimer": 0,
+   "position": "JUNGLE",
+   "isBot": false,
+   "items": [
+    {
+     "itemID": 3142,
+     "displayName": "Youmuu's Ghostblade",
+     "count": 1,
+     "slot": 0,
+     "canUse": false,
+     "consumable": false,
+     "price": 0,
+     "rawDescription": "",
+     "rawDisplayName": ""
+    },
+    {
+     "itemID": 6694,
+     "displayName": "Serylda's Grudge",
+     "count": 1,
+     "slot": 1,
+     "canUse": false,
+     "consumable": false,
+     "price": 0,
+     "rawDescription": "",
+     "rawDisplayName": ""
+    },
+    {
+     "itemID": 9999,
+     "displayName": "Mystery Item",
+     "count": 1,
+     "slot": 2,
+     "canUse": false,
+     "consumable": false,
+     "price": 0,
+     "rawDescription": "",
+     "rawDisplayName": ""
+    }
+   ],
+   "scores": {
+    "kills": 5,
+    "deaths": 3,
+    "assists": 0,
+    "creepScore": 100,
+    "wardScore": 5
+   },
+   "summonerSpells": {
+    "summonerSpellOne": {
+     "displayName": "Flash",
+     "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+    },
+    "summonerSpellTwo": {
+     "displayName": "Ignite",
+     "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerDot_DisplayName"
+    }
+   },
+   "runes": {
+    "keystone": {
+     "displayName": "Electrocute",
+     "id": 8112
+    }
+   }
+  },
+  {
+   "championName": "Jinx",
+   "rawChampionName": "game_character_displayname_Jinx",
+   "riotId": "Bottom#NA1",
+   "riotIdGameName": "Bottom",
+   "summonerName": "Bottom#NA1",
+   "team": "CHAOS",
+   "level": 8,
+   "isDead": false,
+   "respawnTimer": 0,
+   "position": "BOTTOM",
+   "isBot": false,
+   "items": [],
+   "scores": {
+    "kills": 1,
+    "deaths": 2,
+    "assists": 3,
+    "creepScore": 100,
+    "wardScore": 5
+   },
+   "summonerSpells": {
+    "summonerSpellOne": {
+     "displayName": "Flash",
+     "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+    },
+    "summonerSpellTwo": {
+     "displayName": "Exhaust",
+     "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerExhaust_DisplayName"
+    }
+   },
+   "runes": {
+    "keystone": {
+     "displayName": "Electrocute",
+     "id": 8112
+    }
+   }
+  }
+ ],
+ "events": {
+  "Events": []
+ },
+ "gameData": {
+  "gameMode": "CLASSIC",
+  "gameTime": 845.3,
+  "mapName": "Map11",
+  "mapNumber": 11
+ }
+}
